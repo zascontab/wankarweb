@@ -1,0 +1,17 @@
+FROM node:17
+
+RUN mkdir   /ec_frontend
+
+WORKDIR /ec_frontend
+
+COPY ./package.json /ec_frontend/
+
+COPY ./.env /ec_frontend/
+
+RUN npm install
+
+COPY . /ec_frontend
+
+RUN yarn build
+
+CMD [ "yarn", "dev" ]
