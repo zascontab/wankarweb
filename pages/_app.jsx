@@ -59,8 +59,8 @@ function MyApp({ Component, pageProps, mainMenu }) {
     <Head>
       <meta charSet="utf-8" />
       <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-      <title>ZasConta</title>
-      <meta name="description" content="Sample Landing Page with Components - powered by ButterCMS" />
+      <title>Wankar</title>
+      <meta name="description" content="Wankar es una empresa de desarrollo de software que ofrece facturación electrónica, sistemas de administración y módulos personalizados." />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="shortcut icon" type="image/x-icon" href="/" />
     </Head>

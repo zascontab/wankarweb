@@ -11,18 +11,18 @@ export const seedLandingPages: IResponsePages = {
                 "pageType": "landing-page",
                 "fields": {
                     "seo": {
-                        "title": "Zasconta | Digitalizamos tu negocio",
-                        "description": "Zasconta | Digitalizamos tu negocio"
+                        "title": "Wankar | Desarrollo de Software",
+                        "description": "Wankar desarrolla software a medida"
                     },
                     "body": [
                         {
                             "type": "hero",
                             "fields": {
-                                "headline": "ZASCONTA",
-                                "subheadline": "Somos un equipo de personas apasionadas cuyo objetivo es mejorar la vida de todos a través de productos disruptivos. Construimos grandes productos para resolver sus problemas de negocio. Nuestros productos están diseñados para pequeñas y medianas empresas dispuestas a optimizar su rendimiento. ",
+                                "headline": "WANKAR",
+                                "subheadline": "Somos una empresa de desarrollo de software que ofrece facturación electrónica, sistemas de administración y desarrollamos cualquier módulo a tu medida.",
                                 "image": "/svg/homePicture.svg",
                                 "buttonLabel": "Tienda",
-                                "buttonURL": "https://online.zasconta.com/shop",
+                                "buttonURL": "https://wankar.com",
                                 "scrollAnchorID": "home"
                             }
                         },
@@ -93,7 +93,7 @@ export const seedLandingPages: IResponsePages = {
                         {
                             "type": "two_column_with_image",
                             "fields": {
-                                "headline": "Zasconta",
+                                "headline": "Wankar",
                                 "subheadline": "Conocer cualitativamente a nuestros clientes empezará a ser, a partir de ahora, aún más diferencial a la hora de vender.",
                                 "image": "/svg/analytics.svg",
                                 "imagePosition": "left",
@@ -105,7 +105,7 @@ export const seedLandingPages: IResponsePages = {
                         {
                             "type": "features",
                             "fields": {
-                                "headline": "Zasconta",
+                                "headline": "Wankar",
                                 "subheadline": "Software para la planificación de los recursos empresariales (ERP) compuesto por un conjunto integrado de módulos",
                                 "scrollAnchorID": "features",
                                 "features": [

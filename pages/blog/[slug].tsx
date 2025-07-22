@@ -41,7 +41,7 @@ export default function BlogPost({ post, categories }: any) {
                 <meta property="og:description" content={post.metaDescription} />
                 <meta name="twitter:site" content="@kuritj" />
                 <meta name="twitter:creator" content="@kuritj" />
-                <meta name="twitter:title" content="ZasConta Blog" />
+                <meta name="twitter:title" content="Wankar Blog" />
                 <meta name="twitter:description" content={post.metaDescription} />
             </Head>
             <section id="blog-header" className="single-post-nav">
