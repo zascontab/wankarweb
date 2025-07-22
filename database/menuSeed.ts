@@ -57,6 +57,20 @@ export const seedMainMenu: IResponseMenu = {
                             "label": "Opiniones",
                             "url": "#testimonials"
                         },
+                        {
+                            "meta": {
+                                "id": 328649
+                            },
+                            "label": "Términos de Servicio",
+                            "url": "/terms-of-service"
+                        },
+                        {
+                            "meta": {
+                                "id": 328650
+                            },
+                            "label": "Política de Privacidad",
+                            "url": "/privacy-policy"
+                        },
                         // {
                         //     "meta": {
                         //         "id": 328646
